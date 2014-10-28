@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9731D5A6-DB26-4C05-8743-22481F3B843F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>test5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96EF40749CD9C1B181B49FA42D2B1B60F7CF90D1</key>
+		<string>https://github.com/github-swang/test5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/test5.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96EF40749CD9C1B181B49FA42D2B1B60F7CF90D1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/github-swang/test5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96EF40749CD9C1B181B49FA42D2B1B60F7CF90D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96EF40749CD9C1B181B49FA42D2B1B60F7CF90D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>phonegap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
